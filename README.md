@@ -39,14 +39,15 @@ cd NLP__Text_Classification
 
 Make sure to have the following packages installed:
 
-pip install pandas scikit-learn nltk matplotlib seaborn jupyter
+- **pip install pandas scikit-learn nltk matplotlib seaborn jupyter
 
 jupyter notebook
 
 
 📊 Dataset
 
-movie_data.csv
+- **movie_data.csv
+
 A dataset containing movie reviews labeled with sentiments (positive/negative).
 Used for classification tasks and embedding exploration.
 Located in the Data/ folder.
