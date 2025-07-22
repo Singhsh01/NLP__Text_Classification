@@ -35,7 +35,8 @@ This repository contains a set of practical Natural Language Processing (NLP) ex
 git clone https://github.com/Singhsh01/NLP__Text_Classification.git
 cd NLP__Text_Classification
 
-2. Install requirements (optional)
+#### 2. Install requirements (optional)
+
 Make sure to have the following packages installed:
 
 pip install pandas scikit-learn nltk matplotlib seaborn jupyter
