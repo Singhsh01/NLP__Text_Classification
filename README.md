@@ -29,35 +29,42 @@ This repository contains a set of practical Natural Language Processing (NLP) ex
 
 ## 📦 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Singhsh01/NLP__Text_Classification.git ```
+git clone https://github.com/Singhsh01/NLP__Text_Classification.git
 cd NLP__Text_Classification
+```
 
 ---
 
-### 2. Install requirements (optional)
+### 2. Install Requirements (Optional)
 
 Make sure to have the following packages installed:
 
 ```bash
-pip install pandas scikit-learn nltk matplotlib seaborn jupyter ```
+pip install pandas scikit-learn nltk matplotlib seaborn jupyter
+```
+
+Then launch the notebook:
 
 ```bash
-jupyter notebook ```
+jupyter notebook
+```
 
+---
 
+### 📊 Dataset
 
-📊 Dataset
+- **`movie_data.csv`**  
+  A dataset containing movie reviews labeled with sentiments (positive/negative).  
+  Used for classification tasks and embedding exploration.  
+  Located in the `Data/` folder.
 
-- **movie_data.csv
+---
 
-A dataset containing movie reviews labeled with sentiments (positive/negative).
-Used for classification tasks and embedding exploration.
-Located in the Data/ folder.
+### 📌 Author
 
-📌 Author
-
-Shammi Singh
+**Shammi Singh**  
 MSc. Intelligent Systems, Ulm University of Applied Sciences
+
