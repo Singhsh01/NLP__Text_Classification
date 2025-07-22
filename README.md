@@ -32,8 +32,8 @@ This repository contains a set of practical Natural Language Processing (NLP) ex
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Singhsh01/NLP__Text_Classification.git
-cd NLP__Text_Classification ```
+git clone https://github.com/Singhsh01/NLP__Text_Classification.git ```
+cd NLP__Text_Classification 
 
 ---
 
